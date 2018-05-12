@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38917'
     url: http://www.gutenberg.org/2009/agents/38917
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37558#A-Catalogue-of-Sculpture-in-the-Department-of-Greek-and-Roman-Antiquities-British-Museum-Volu_
 gutenberg_issued: '2011-09-28'
 gutenberg_type: Text
 identifiers:
